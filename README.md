@@ -60,16 +60,15 @@ Transforma cualquier sistema Ubuntu 24.04 en una máquina lista para **pentestin
 
 ## 📷 Capturas
 
-> Agrega aquí tus capturas de pantalla del entorno tras instalarlo.
+> En proceso-....
 
 ## 📄 Licencia
 
 MIT License
 
----
 
 Contribuciones, forks y mejoras son bienvenidas.
 
-```
+
 
 
