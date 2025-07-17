@@ -8,7 +8,7 @@ sudo apt update && sudo apt upgrade -y
 
 echo "🧰 Instalando herramientas esenciales..."
 sudo apt install -y build-essential git curl wget python3 python3-pip zsh tilix gnome-tweaks conky-all neofetch net-tools \
-nmap netcat sqlmap hydra john hashcat aircrack-ng reaver nikto gobuster wfuzz binwalk sleuthkit autopsy whois dnsutils traceroute
+nmap netcat-openbsd sqlmap hydra john hashcat aircrack-ng reaver nikto gobuster wfuzz binwalk sleuthkit autopsy whois dnsutils traceroute
 
 echo "🧪 Instalando herramientas gráficas de pentesting..."
 sudo apt install -y wireshark zenmap
