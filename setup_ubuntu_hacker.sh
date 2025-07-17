@@ -13,8 +13,8 @@ nmap netcat-openbsd sqlmap hydra john hashcat aircrack-ng reaver nikto gobuster 
 echo "🧪 Instalando herramientas gráficas de pentesting..."
 sudo apt install -y wireshark zenmap
 
-echo "🔍 Instalando Burp Suite Community Edition..."
-sudo snap install burpsuite
+#echo "🔍 Instalando Burp Suite Community Edition..."
+#sudo snap install burpsuite
 
 echo "🌐 Instalando Maltego CE..."
 wget -O ~/Descargas/maltego.deb https://downloads.maltego.com/maltego-v4/linux/Maltego.v4.6.0.deb
