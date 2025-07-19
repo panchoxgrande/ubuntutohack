@@ -80,7 +80,7 @@ source ~/venvs/hacktools/bin/activate
 
 ## 📷 Capturas (opcional)
 
-> Puedes agregar aquí imágenes de tu escritorio después de la instalación con HUD, terminal, y herramientas.
+> Pronto.......
 
 ---
 
