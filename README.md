@@ -97,9 +97,6 @@ MIT — Libre para usar, modificar y compartir.
 **PanchoxGrande**
 🔗 [github.com/panchoxgrande](https://github.com/panchoxgrande)
 
-```
-
-
 
 
 
