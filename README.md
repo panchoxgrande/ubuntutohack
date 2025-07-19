@@ -78,7 +78,7 @@ source ~/venvs/hacktools/bin/activate
 
 ---
 
-## 📷 Capturas (opcional)
+## 📷 Capturas 
 
 ><img width="1916" height="1074" alt="imagen" src="https://github.com/user-attachments/assets/04643a7f-00e6-4ccb-8e96-5d0188e53a5a" />
 .<img width="1853" height="768" alt="imagen" src="https://github.com/user-attachments/assets/f2ff311a-f461-4ec2-8fa2-cd859e879cd6" />
