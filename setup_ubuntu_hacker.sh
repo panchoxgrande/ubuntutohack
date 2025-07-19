@@ -178,9 +178,11 @@ if [ -n "$PROFILE_ID" ]; then
 else
     echo "⚠️ No se pudo aplicar fuente a GNOME Terminal"
 fi
-# 📷 Estableciendo fondo de pantalla personalizado
+# 🖼 Estableciendo fondo de pantalla personalizado desde el script
+echo "🖼 Configurando fondo de pantalla personalizado..."
+
 mkdir -p ~/Imágenes/wallpapers
-cp 1000090902.png ~/Imágenes/wallpapers/hacker_fondo.png
+cp "$(dirname "$0")/hacker_fondo.png" ~/Imágenes/wallpapers/hacker_fondo.png
 
 gsettings set org.gnome.desktop.background picture-uri "file://$HOME/Imágenes/wallpapers/hacker_fondo.png"
 
